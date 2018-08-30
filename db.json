@@ -22,7 +22,7 @@
                                 "speed":20,
                                 "refit":0
                                },
-              "features": "Jacuzzi, Tender, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "features": ["Jacuzzi", "Snorkel Gear", "Kayak", "Suzzane's"],
               "description":"Faster Yacht",
               "price":{"fullDay":12000,
                        "halfDay":7000
@@ -51,7 +51,7 @@
                                 "speed":25,
                                 "refit":0
                                },
-              "features": "Jacuzzi, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "features": ["Jacuzzi", "Snorkel Gear", "Kayak", "Blohm & Voss's", "Suzzane's"],
               "description":"Average Yacht",
               "price":{"fullDay":12000,
                        "halfDay":7000
@@ -82,7 +82,7 @@
                                 "speed":20,
                                 "refit":0
                                },
-              "features": "Jacuzzi, Tender, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "features": ["Jacuzzi", "Snorkel Gear", "Kayak", "Blohm & Voss's", "Suzzane's"],
               "description":"Faster Yacht",
               "price":{"fullDay":12000,
                        "halfDay":7000
@@ -109,7 +109,7 @@
                                 "speed":30,
                                 "refit":0
                                },
-              "features": "Jacuzzi, Tender, Snorkel Gear, Blohm & Voss's, Suzzane's",
+              "features": [ "Snorkel Gear", "Kayak", "Blohm & Voss's", "Suzzane's"],
               "description":"Fastest Yacht",
               "price":{"fullDay":14000,
                        "halfDay":10000
