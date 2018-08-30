@@ -1,0 +1,262 @@
+{
+  "Miami":[
+            {
+              "image":[
+              "https://i.pinimg.com/originals/1c/ec/15/1cec151ab776554c06c442ac7b00ea3a.jpg",
+              "http://www.guoguiyan.com/data/out/217/69238405-yacht-wallpapers.jpg"
+              ],
+              "name":"Express Cruiser",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":4574,
+                                "cabin":3,
+                                "beam":4,
+                                "bathrooms":2,
+                                "draft":222,
+                                "builder":"Arman Ltd",
+                                "guest":4,
+                                "year":2003,
+                                "speed":20,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Tender, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "description":"Faster Yacht",
+              "price":{"fullDay":12000,
+                       "halfDay":7000
+                      }
+            },
+            {
+              "image":["http://wallpaperstrend.com/wp-content/uploads/Ships/Ships01/yacht-luxury-hd-wallpaper-1280x720.jpg",
+              "https://cdn.trendhunterstatic.com/thumbs/heesen-65m-superyacht.jpeg"
+              ],
+              "name":"Pilothouse Motor Yacht",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":5647,
+                                "cabin":6,
+                                "beam":4,
+                                "bathrooms":3,
+                                "draft":222,
+                                "builder":"Arman Ltd",
+                                "guest":6,
+                                "year":2000,
+                                "speed":30,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Tender, Snorkel Gear, Blohm & Voss's, Suzzane's",
+              "description":"Fastest Yacht",
+              "price":{"fullDay":14000,
+                       "halfDay":10000
+                      }
+            },
+            {
+              "image":[
+                    "https://i.pinimg.com/originals/17/56/1f/17561fb45c19ed7fbefd5c72d6ff804a.jpg",
+                    "https://i.ytimg.com/vi/sLvI-WyasD8/maxresdefault.jpg"
+              ],
+              "name":"Mega Yacht",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":3659,
+                                "cabin":2,
+                                "beam":2,
+                                "bathrooms":1,
+                                "draft":222,
+                                "builder":"Desouza Ltd",
+                                "guest":3,
+                                "year":2005,
+                                "speed":25,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "description":"Average Yacht",
+              "price":{"fullDay":12000,
+                       "halfDay":7000
+                      }
+            }
+  
+  ],
+  "FortLauderdale":[
+            {
+              "image":["http://wallpaperstrend.com/wp-content/uploads/Ships/Ships01/yacht-luxury-hd-wallpaper-1280x720.jpg",
+              "https://cdn.trendhunterstatic.com/thumbs/heesen-65m-superyacht.jpeg"
+              ],
+              "name":"Express Cruiser",
+              "location":"Fort Lauderdale",
+              "address":"Fort Lauderdale Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":4574,
+                                "cabin":3,
+                                "beam":4,
+                                "bathrooms":2,
+                                "draft":222,
+                                "builder":"Arman Ltd",
+                                "guest":4,
+                                "year":2003,
+                                "speed":20,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Tender, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "description":"Faster Yacht",
+              "price":{"fullDay":10000,
+                       "halfDay":8000
+                      }
+            },
+            {
+             
+               "image":[
+              "https://i.pinimg.com/originals/1c/ec/15/1cec151ab776554c06c442ac7b00ea3a.jpg",
+              "http://www.guoguiyan.com/data/out/217/69238405-yacht-wallpapers.jpg"
+              ],
+              "name":"Pilothouse Motor Yacht",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":5647,
+                                "cabin":6,
+                                "beam":4,
+                                "bathrooms":3,
+                                "draft":222,
+                                "builder":"Arman Ltd",
+                                "guest":6,
+                                "year":2000,
+                                "speed":30,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Tender, Snorkel Gear, Blohm & Voss's, Suzzane's",
+              "description":"Fastest Yacht",
+              "price":{"fullDay":14000,
+                       "halfDay":10000
+                      }
+            },
+            {
+              "image":[
+                    "https://i.pinimg.com/originals/17/56/1f/17561fb45c19ed7fbefd5c72d6ff804a.jpg",
+                    "https://i.ytimg.com/vi/sLvI-WyasD8/maxresdefault.jpg"
+              ],
+              "name":"Mega Yacht",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":3659,
+                                "cabin":2,
+                                "beam":2,
+                                "bathrooms":1,
+                                "draft":222,
+                                "builder":"Desouza Ltd",
+                                "guest":3,
+                                "year":2005,
+                                "speed":25,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "description":"Average Yacht",
+              "price":{"fullDay":5000,
+                       "halfDay":3000
+                      }
+            }
+  
+  ],
+  "PalmBeach":[
+            {
+              "image":[
+              "https://i.pinimg.com/originals/1c/ec/15/1cec151ab776554c06c442ac7b00ea3a.jpg",
+              "http://www.guoguiyan.com/data/out/217/69238405-yacht-wallpapers.jpg"
+              ],
+              "name":"Express Cruiser",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":4574,
+                                "cabin":3,
+                                "beam":4,
+                                "bathrooms":2,
+                                "draft":222,
+                                "builder":"Arman Ltd",
+                                "guest":4,
+                                "year":2003,
+                                "speed":20,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Tender, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "description":"Faster Yacht",
+              "price":{"fullDay":12000,
+                       "halfDay":7000
+                      }
+            },
+            {
+              "image":["http://wallpaperstrend.com/wp-content/uploads/Ships/Ships01/yacht-luxury-hd-wallpaper-1280x720.jpg",
+              "https://cdn.trendhunterstatic.com/thumbs/heesen-65m-superyacht.jpeg"
+              ],
+              "name":"Pilothouse Motor Yacht",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":5647,
+                                "cabin":6,
+                                "beam":4,
+                                "bathrooms":3,
+                                "draft":222,
+                                "builder":"Arman Ltd",
+                                "guest":6,
+                                "year":2000,
+                                "speed":30,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Tender, Snorkel Gear, Blohm & Voss's, Suzzane's",
+              "description":"Fastest Yacht",
+              "price":{"fullDay":14000,
+                       "halfDay":10000
+                      }
+            },
+            {
+              "image":[
+                    "https://i.pinimg.com/originals/17/56/1f/17561fb45c19ed7fbefd5c72d6ff804a.jpg",
+                    "https://i.ytimg.com/vi/sLvI-WyasD8/maxresdefault.jpg"
+              ],
+              "name":"Mega Yacht",
+              "location":"miami",
+              "address":"Miami Beach",
+              "latitude":80.4734589,
+              "longitude":40.783434,
+              "specifications":{
+                                "length":3659,
+                                "cabin":2,
+                                "beam":2,
+                                "bathrooms":1,
+                                "draft":222,
+                                "builder":"Desouza Ltd",
+                                "guest":3,
+                                "year":2005,
+                                "speed":25,
+                                "refit":0
+                               },
+              "features": "Jacuzzi, Snorkel Gear, Kayak, Blohm & Voss's, Suzzane's",
+              "description":"Average Yacht",
+              "price":{"fullDay":12000,
+                       "halfDay":7000
+                      }
+            }
+  
+  ]
+
+}
